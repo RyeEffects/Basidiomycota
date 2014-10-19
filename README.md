@@ -1,11 +1,9 @@
 PickAPatch
-
-User Defined Patch Bay for Guitar Effects Pedals
-  -Hardware Design Files
-  -Device Firmware 
-  -Android/iOs App Software
 ==========
-
+User Defined Patch Bay for Guitar Effects Pedals
+  ,Hardware Design Files
+  ,Device Firmware 
+  ,Android/iOs App Software
 
   
 This Repo represents the Current Development of the Project, if you would like beta-test, 
